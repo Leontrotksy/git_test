@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="UTF-8">
+  <title>List</title>  
+</head>
+<body>
+    <h2>Favorite Foods unordered</h2>
+    <ul>
+        <li>Pizza</li>
+        <li>sushi</li>
+        <li>Tostones</li>
+    </ul>
+    <h2>Todo ordered</h2>
+        <ol>
+        <li>Calculus Notes</li>
+        <li>Hamlet Reading</li>
+        <li>Sleep</li>
+        </ol>
+    <h2>Bucket list unordered</h2>
+    <ul>
+        <li>Palermo</li>
+        <li>Havanna</li>
+        <li>Paris</li>
+    </ul>
+    <h2>Favortie Movies Ordered</h2>
+    <ol>
+        <li>Godfather Part 2</li>
+        <li>Full Metal Jacket</li>
+        <li>Godfather</li>
+        <li>Star Wars A New Hope</li>
+        <li>Star Trek Undiscovered Country</li>
+    </ol>
+</body>
